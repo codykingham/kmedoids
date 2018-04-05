@@ -1,4 +1,8 @@
 # kmedoids
+
+**See the original: https://github.com/letiantian/kmedoids**
+**I have modified this script to run in python 3 and to include a random seed for consistent experiments.**
+
 The Python implementation of [k-medoids](https://en.wikipedia.org/wiki/K-medoids). 
 
 ## Example
